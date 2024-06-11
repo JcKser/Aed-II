@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Tp2_577dd5c1"
+        },
+        {
+            "type": "java",
             "name": "insercao",
             "request": "launch",
             "mainClass": "insercao",
